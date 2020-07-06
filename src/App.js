@@ -36,6 +36,9 @@ function App() {
         Building apps together
       </p>
     </div>
+    <button class="btn btn-blue">
+        Button
+    </button>
   </div>
   );
 }
